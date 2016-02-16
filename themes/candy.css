@@ -1,0 +1,44 @@
+html {
+	background-color: #fff4f4;
+	color: #fff4f4;
+}
+.box {
+	width: 80%;
+	margin: auto;
+	background-color: #ffa7a7;
+	padding: 10px;
+	box-shadow: 0px -10px 0px #ffcbcb;
+	font-size: 32px;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+#module_header {
+	padding: 10px;
+	font-size: 32px;
+
+	font-family: 'Montserrat', sans-serif;
+}
+#module_info {
+	width: 80%;
+	margin: auto;
+	padding: 10px;
+	font-size: 32px;
+	font-family: 'Roboto', sans-serif;
+}
+#module_info_usericon {
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	height: 250px;
+	width: 250px;
+}
+#module_downloads {
+	font-size: 16px;
+	height: 50px;
+}
+#module_download_progressbar {
+	background-color: #c9fdff;
+}
+#module_download_progressbar_background{
+	background-color: #dffeff;
+}

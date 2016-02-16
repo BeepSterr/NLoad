@@ -1,0 +1,4 @@
+Here are all the themes CSS files stored, If you know how to use it you can make your own
+I do advice you to copy one of the default ones and just tinker with that.
+
+- Nioxed
